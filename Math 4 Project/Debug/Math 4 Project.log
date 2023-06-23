@@ -1,0 +1,56 @@
+﻿  Math 4 Project.cpp
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(41,29): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(91,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(118,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(272,60): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(340,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(351,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(351,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(341,20): warning C4101: 'xA': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(375,31): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(390,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(398,53): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(406,53): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(614,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(640,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1003,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1060,27): warning C4018: '<': signed/unsigned mismatch
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1126,1): warning C4305: '=': truncation from 'double' to 'float'
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1127,1): warning C4305: '=': truncation from 'double' to 'float'
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1189,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,37): warning C4101: 'c1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,33): warning C4101: 'b2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,25): warning C4101: 'a2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,21): warning C4101: 'a1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,41): warning C4101: 'c2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1138,29): warning C4101: 'b1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1253,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,37): warning C4101: 'c1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,33): warning C4101: 'b2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,25): warning C4101: 'a2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,21): warning C4101: 'a1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,41): warning C4101: 'c2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1202,29): warning C4101: 'b1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1321,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,37): warning C4101: 'c1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,33): warning C4101: 'b2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,25): warning C4101: 'a2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,21): warning C4101: 'a1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,41): warning C4101: 'c2': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1265,42): warning C4101: 'xY': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1266,29): warning C4101: 'b1': unreferenced local variable
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(1855,1): warning C4102: 'formask': unreferenced label
+W:\Projects\c++\Projects\Math 4 Project\Math 4 Project\Math 4 Project.cpp(2008,11): warning C4102: 'point0': unreferenced label
+  Math 4 Project.vcxproj -> W:\Projects\c++\Projects\Math 4 Project\Debug\Math 4 Project.exe
